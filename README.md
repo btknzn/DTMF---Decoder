@@ -1,2 +1,2 @@
 # DTMF---Decoder
-![](DTMF---Decoder/2.PNG)
+!(img src = "DTMF---Decoder/2.PNG")
