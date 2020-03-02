@@ -1,2 +1,2 @@
 # DTMF---Decoder
-![](2.png)
+![](DTMF---Decoder/2.PNG)
